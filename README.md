@@ -14,7 +14,7 @@ The Board of Trustees ask to create an annual report of all trainess across all 
   - made sure the data is clean and consistent in data type, data format and values
   - merge all pivot tables into one dashboard and apply slicers to make it dynamic
     ## Dashboard
-    https://github.com/Maxwelldata/HCDT-2024-Trainees/blob/main/Screenshot%202025-10-27%20032006.png
+    https://github.com/Maxwelldata/HCDT-2024-Trainees/blob/main/Dashboard/Screenshot%202025-10-27%20032006.png
     ## Project Insight
     -We have a total of 353 trainees
     - NIIT has the highest numbers of students
