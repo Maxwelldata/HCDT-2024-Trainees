@@ -15,5 +15,11 @@ The Board of Trustees ask to create an annual report of all trainess across all 
   - merge all pivot tables into one dashboard and apply slicers to make it dynamic
     ## Dashboard
     https://github.com/Maxwelldata/HCDT-2024-Trainees/blob/main/Screenshot%202025-10-27%20032006.png
+    ## Project Insight
+    -We have a total of 353 trainees
+    - NIIT has the highest numbers of students
+    - Total number of 17 courses, Data Analytics with the highest numbers of students
+      ## Final Conclusion
+      The Obagi HCDT set the pace of training the youth in various tech fields, Data analytics having thr highedt nembers of students this year should be reduced in subsequent years to create vacancy in other tech field.
     
   
