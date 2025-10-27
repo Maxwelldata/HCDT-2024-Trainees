@@ -12,5 +12,7 @@ The Board of Trustees ask to create an annual report of all trainess across all 
   ## Process
   - Clean and transform the data, check for missing values and abnormalities
   - made sure the data is clean and consistent in data type, data format and values
-  - merge all pivot tables into one dashboard and apply slicers to make it dynamic 
+  - merge all pivot tables into one dashboard and apply slicers to make it dynamic
+    ## Dashboard
+    
   
