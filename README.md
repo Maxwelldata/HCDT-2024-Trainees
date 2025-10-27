@@ -14,5 +14,6 @@ The Board of Trustees ask to create an annual report of all trainess across all 
   - made sure the data is clean and consistent in data type, data format and values
   - merge all pivot tables into one dashboard and apply slicers to make it dynamic
     ## Dashboard
+    Screenshot 2025-10-27 032006.png
     
   
